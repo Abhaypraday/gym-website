@@ -15,5 +15,6 @@ My first frontend project built using HTML and CSS.
 ## Author
 Abhaypraday B. Shinde
 
-##Preview
-![Preview](screenshot.png)
+## Preview
+
+![Preview](image.png)
